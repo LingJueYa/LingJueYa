@@ -63,6 +63,8 @@ https://github.com/SAWARATSUKI/ServiceLogos -->
   <img height="96" align="right" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lcandy2/lcandy2/snake-game/github-contribution-grid-snake.svg">
 </picture>
 
-<p>一起来做些 Cool 的事情吧！ ✨</p>
-
 **致谢该主页的分享者～ : [甜檸 Cirtron](https://github.com/lcandy2)**
+
+如果你也喜欢，欢迎给这个小姐姐点Star呀～
+
+<p>一起来做些 Cool 的事情吧！ ✨</p>
