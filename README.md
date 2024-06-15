@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 📮 How to reach me
+#### 📮 快来联系我叭
 
 - Telegram: [@lingjue1](https://t.me/lingjue1)
 - Email: [3266764066@qq.com](mailto:3266764066@qq.com)
 
-#### 🛠️ Skills and Tools
+#### 🛠️ 我的技能与工具
 
 <!-- Service Logos by Sawaratsuki
 https://github.com/SAWARATSUKI/ServiceLogos -->
@@ -65,7 +65,7 @@ https://github.com/SAWARATSUKI/ServiceLogos -->
 
 **✨ 致谢在成长路中，愿意倾囊相助的朋友们：**
 
-**麦穗麦穗 ｜ Adkinsm ｜ 顾颜千岁**
+麦穗麦穗 ｜ Adkinsm ｜ 顾颜千岁
 
 **✨ 致谢该主页的分享者～ : [甜檸 Cirtron](https://github.com/lcandy2)**
 
