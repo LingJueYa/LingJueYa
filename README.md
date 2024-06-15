@@ -63,10 +63,12 @@ https://github.com/SAWARATSUKI/ServiceLogos -->
   <img height="96" align="right" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lcandy2/lcandy2/snake-game/github-contribution-grid-snake.svg">
 </picture>
 
-**✨ 致谢在成长路中，愿意倾囊相助的朋友们 ： 麦穗麦穗 ｜ Adkinsm ｜ 顾颜千岁**
+**✨ 致谢在成长路中，愿意倾囊相助的朋友们：**
 
-**致谢该主页的分享者～ : [甜檸 Cirtron](https://github.com/lcandy2)**
+**麦穗麦穗 ｜ Adkinsm ｜ 顾颜千岁**
 
-如果你也喜欢，欢迎给这个小姐姐点 Star 呀～
+**✨ 致谢该主页的分享者～ : [甜檸 Cirtron](https://github.com/lcandy2)**
+
+如果你也喜欢，欢迎给这些可爱的人点点 Star 呀～
 
 <p>🎉 一起来做些 Cool 的事情吧！🎉</p>
