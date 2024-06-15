@@ -13,7 +13,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=LingJueYa&show_icons=true&hide_rank=true&hide_title=true" alt="LingJueYa's GitHub Stats" />
 </picture>
 
-随至爱见至美！愿我们只生欢喜不生愁，皓月照的故人不散，踏遍烟火人间，一切如愿！
+🌱 愿我们只生欢喜不生愁，皓月照的故人不散，踏遍烟火人间，一切如愿！
 
 <!--
 **lcandy2/lcandy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -67,7 +67,7 @@ https://github.com/SAWARATSUKI/ServiceLogos -->
 
 麦穗麦穗 ｜ Adkinsm ｜ 顾颜千岁
 
-**✨ 致谢该主页的分享者～ : [甜檸 Cirtron](https://github.com/lcandy2)**
+✨ 致谢该主页的分享者～ : [甜檸 Cirtron](https://github.com/lcandy2)
 
 如果你也喜欢，欢迎给这些可爱的人点点 Star 呀～
 
